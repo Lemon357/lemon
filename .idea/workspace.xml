@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75d79134-26af-424e-8fb4-7ebcc4c61e61" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general-tools/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general-tools/src/main/java/tools/result/ActionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general-tools/src/main/java/tools/result/BusinessError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-api/src/main/java/com/lemon/api/ApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-api/src/main/java/com/lemon/api/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-application/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-application/src/main/java/com/lemon/application/UserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-application/src/main/java/com/lemon/application/impl/UserApplicationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-domain/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-domain/src/main/java/com/lemon/entity/banking/Banking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-domain/src/main/java/com/lemon/entity/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemon-repository/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="75d79134-26af-424e-8fb4-7ebcc4c61e61" name="变更" comment="首次提交">
+      <change afterPath="$PROJECT_DIR$/lemon-web/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +18,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -58,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -83,11 +69,24 @@
       <updated>1678945711846</updated>
       <workItem from="1678945712902" duration="1550000" />
       <workItem from="1678947680294" duration="1230000" />
-      <workItem from="1678948916394" duration="1248000" />
+      <workItem from="1678948916394" duration="2874000" />
+      <workItem from="1678953758194" duration="368000" />
     </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1678950364445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678950364445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
   </component>
 </project>
